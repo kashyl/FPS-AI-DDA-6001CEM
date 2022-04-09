@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "CEM6001",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "PerceptionExtension",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3554adbb682840be9abe0db1afef4b32"
+		},
+		{
+			"Name": "VictoryBPLibrary",
+			"Enabled": false,
+			"MarketplaceURL": "http://www.ue4code.com"
+		}
+	]
+}
