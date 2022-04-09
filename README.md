@@ -24,5 +24,6 @@ Press ESC to pause the game, view current round statistics. From the pause menu 
 ### Debugging
 * https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/ArtificialIntelligence/AIDebugging/
 * https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/GameplayDebugger/
+* Use Numpad 3 and 4 while in AI Debugging for EQS and AIPerception.
 
 
